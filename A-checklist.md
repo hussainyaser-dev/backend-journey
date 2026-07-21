@@ -1,9 +1,9 @@
 # ✅ Backend Roadmap Checklist
 
 ## 🌐 Internet & Basics
-- [ ] How the Internet works  
-- [ ] What is HTTP?  
-- [ ] Domain Name System (DNS)  
+- [✅] How the Internet works  
+- [✅] What is HTTP?  
+- [✅] Domain Name System (DNS)  
 - [ ] Hosting basics  
 - [ ] How browsers work  
 
